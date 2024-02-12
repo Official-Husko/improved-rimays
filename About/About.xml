@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Husko's Improved Rimays</name>
-	<packageId>husko.improved_rimays</packageId>
+	<packageId>husko.improvements.rimays</packageId>
 	<modVersion>1.0.0</modVersion>
 	<url></url>
 	<supportedVersions>
